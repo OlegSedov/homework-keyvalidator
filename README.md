@@ -4,7 +4,7 @@
 
 14.08.2020 было проведено функциональное тестирование приложения KeyValidator
 
-На тестирование затрачено: 2 часа
+На тестирование затрачено 2 часа
 
 В результате тестирования выявлены следующие дефекты:
 * [Issue 1](https://github.com/OlegSedov/homework-keyvalidator/issues/1)
@@ -13,7 +13,7 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
+В процессе тестирования использовались следующие артефакты:
 * [.gitignore](https://raw.githubusercontent.com/netology-code/javaqa-homeworks/master/.gitignore)
 * [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
